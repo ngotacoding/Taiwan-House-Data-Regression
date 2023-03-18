@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project predicts future house prices in Sindian District of New Taipei City in Taiwan based on historical data.
+This project predicts future house prices in the Sindian District of New Taipei City in Taiwan based on historical house prices data.
 The source of the dataset is the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
 ## Libraries and tools used
